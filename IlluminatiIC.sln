@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IlluminatiIC", "IlluminatiIC\IlluminatiIC.csproj", "{68D711D4-29A2-4D4E-B247-A752D870001A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IlluminatiIC.Tests", "IlluminatiIC.Tests\IlluminatiIC.Tests.csproj", "{2C2054E7-131F-4383-8579-276EE07B19D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{68D711D4-29A2-4D4E-B247-A752D870001A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68D711D4-29A2-4D4E-B247-A752D870001A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68D711D4-29A2-4D4E-B247-A752D870001A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68D711D4-29A2-4D4E-B247-A752D870001A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C2054E7-131F-4383-8579-276EE07B19D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2054E7-131F-4383-8579-276EE07B19D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2054E7-131F-4383-8579-276EE07B19D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2054E7-131F-4383-8579-276EE07B19D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
