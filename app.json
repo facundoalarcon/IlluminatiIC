@@ -1,0 +1,15 @@
+{
+  "name": "IlluminatiIC",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
